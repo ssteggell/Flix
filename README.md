@@ -25,8 +25,9 @@
 ![](https://i.imgur.com/gRlVpbh.gif)
 
 
-<img src='https://imgur.com/vFqh9DL.gif' width=250><br>
+<img src='https://imgur.com/vFqh9DL.gif'><br>
 
+<img src='https://imgur.com/vFqh9DL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
