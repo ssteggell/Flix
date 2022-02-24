@@ -27,6 +27,8 @@
 
 <img src='https://imgur.com/vFqh9DL.gif'><br>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="vFqh9DL"><a href="https://imgur.com/vFqh9DL">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <img src='https://imgur.com/vFqh9DL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
@@ -34,4 +36,4 @@
 
  ### Notes
  Describe any challenges encountered while building the app.
- The biggest challenge.. getting the GIFs to display properly here. I have pasted two different links, both work in hackermd, under 10MB, but I cannot get them to display in the readme file. I want to move on to the next assignment and will hopefully be able to fix this later when I submit that one. 
+ The biggest challenge.. getting the GIFs to display properly here. I have pasted two different links, both work in hackermd, under 10MB, but I cannot get them to display in the readme file. I want to move on to the next assignment and will hopefully be able to fix this later when I submit that one. An actual link to it posted on imgur is: https://imgur.com/vFqh9DL
