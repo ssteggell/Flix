@@ -22,8 +22,9 @@
 
  ### App Walkthrough GIF
 
+![](https://i.imgur.com/gRlVpbh.gif)
 
-![](https://i.imgur.com/lG6frfp.gif)
+
 
 
 
