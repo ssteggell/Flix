@@ -25,7 +25,7 @@
 ![](https://i.imgur.com/gRlVpbh.gif)
 
 
-<img src="https://imgur.com/vFqh9DL.gif" width=250><br>
+<img src='https://imgur.com/vFqh9DL.gif' width=250><br>
 
 
 
@@ -33,3 +33,4 @@
 
  ### Notes
  Describe any challenges encountered while building the app.
+ The biggest challenge.. getting the GIFs to display properly here. I have pasted two different links, both work in hackermd, under 10MB, but I cannot get them to display in the readme file. I want to move on to the next assignment and will hopefully be able to fix this later when I submit that one. 
