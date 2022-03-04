@@ -18,6 +18,11 @@
 
 ![](https://i.imgur.com/1IUueqB.gif)
 
+
+<img src='https://imgur.com/Kl2bmdj.gif' width=250><br>
+
+URL for GIF: https://imgur.com/Kl2bmdj.gif
+
 ### Notes
 Describe any challenges encountered while building the app.
 
@@ -39,6 +44,9 @@ Describe any challenges encountered while building the app.
  
 
 <img src="https://imgur.com/vFqh9DL.gif" width=250><br>
+
+
+URL for GIF: https://imgur.com/vFqh9DL.gif
 
 
 
